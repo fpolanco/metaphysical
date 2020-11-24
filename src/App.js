@@ -1,25 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState} from 'react';
+import CrystalContainer from './crystalContainer'
 import './App.css';
+import CrystalShowPage from './crystalShowPage';
+
 
 function App() {
+  const [crystal, setCrystal] = useState(null)
+
+  const renderApp = () => {
+    if (crystal) {
+      return (
+          <CrystalShowPage crystal={crystal} handleCrystalState={handleCrystalState}/>
+      )
+    } else {
+      return (
+      <CrystalContainer handleCrystalState={handleCrystalState} />
+    )}
+
+  }
+
+
+  const handleCrystalState = (crystalObj) => {
+    setCrystal(crystalObj)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        <h1>Crystal Collection</h1>
+        {renderApp()}
+      </div>
   );
 }
 
