@@ -41,3 +41,5 @@ Open the directory for this project in a terminal or editor of your choice.
 - [ ] React Router
 - [ ] OAuth
 
+## Special Thanks
+* [Madhur Malhotra](https://www.linkedin.com/in/madhurxyz/) - For helping create beautiful logo and powerpoint presentation.
