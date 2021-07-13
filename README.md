@@ -7,7 +7,12 @@ Attending bootcamp during all the events that transpired in 2020, I had to find 
 
 For fun I thought it would be cool to create a web platform where individuals could exchange the knowledge of stone's healing properties. Users can submit comments to share information. Users can also save favorited crystals to favorites list.
 
+
+
+
+
 ![](metaphysicaldemo.gif)
+
 
 # Technologies Used:
 - ReactJS
