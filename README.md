@@ -1,5 +1,6 @@
 # Metaphysical
-![Screen Shot 2021-07-11 at 9 01 25 PM](https://user-images.githubusercontent.com/59297307/125311326-54ac9100-e301-11eb-939f-1728d2ee0b25.png)
+![metaphysicalscreenshot](https://user-images.githubusercontent.com/59297307/125380116-b00d6c00-e35f-11eb-9996-0f79f76c44f4.png)
+
 
 # Motivation:
 Attending bootcamp during all the events that transpired in 2020, I had to find ways to maintain wellness and wellbeing. I came across the healing properties of crystals and realized people have different ways of using crystals.
@@ -8,14 +9,14 @@ For fun I thought it would be cool to create a web platform where individuals co
 
 ![](metaphysicaldemo.gif)
 
-# Technologies Used
+# Technologies Used:
 - ReactJS
 - Rails
 - Semantic UI
 - Webpack
 - Active Record
 
-# Getting Started
+# Getting Started:
 1. Install [Rails backend](https://github.com/fpolanco/metaphysical-backend/tree/main)
  
 2. Install [Node.js and npm](https://docs.npmjs.com/getting-started):
@@ -36,7 +37,7 @@ Open the directory for this project in a terminal or editor of your choice.
         `npm start`
         
     
-## Future Updates
+## Future Updates:
 
 - [ ] React Router
 - [ ] OAuth
