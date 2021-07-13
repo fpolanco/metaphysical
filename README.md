@@ -1,5 +1,6 @@
 # Metaphysical
-![metaphysicalscreenshot](https://user-images.githubusercontent.com/59297307/125380116-b00d6c00-e35f-11eb-9996-0f79f76c44f4.png)
+![metaphysicallogo](https://user-images.githubusercontent.com/59297307/125380592-6c673200-e360-11eb-8123-722093410288.png)
+
 
 
 # Motivation:
