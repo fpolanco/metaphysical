@@ -1,5 +1,7 @@
 # Metaphysical
-![metaphysicallogo](https://user-images.githubusercontent.com/59297307/125380592-6c673200-e360-11eb-8123-722093410288.png)
+
+![Metaphysical](https://user-images.githubusercontent.com/59297307/125382712-2ad88600-e364-11eb-956c-6a697afbd470.png)
+
 
 
 
